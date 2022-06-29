@@ -1,0 +1,44 @@
+* {
+    margin:0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+   background-color: rgb(1, 2, 15);
+}
+input{
+    border-radius: 10px;
+    width: 250px;
+    height: 75px;
+    border-style: double;
+    border-color: rgb(3, 0, 177);
+    background: bisque;
+    border-style: double;
+    text-align: center;
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
+#temp-box{
+position: fixed;
+left: 38%;
+top: 27%;
+height: 400px;
+width: 400px;
+background-color: rgb(5, 14, 110);
+border: 5px solid rgb(255, 255, 255);
+box-shadow: 5px 5px rgb(183, 207, 255);
+
+}
+.border{
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-top: 45px;
+   
+
+}
+.prad{
+    margin-left: 66px;
+    margin-top: 70px;
+}
