@@ -26,6 +26,7 @@ left: 38%;
 top: 27%;
 height: 400px;
 width: 400px;
+border-radius: 10px;
 background-color: rgb(5, 14, 110);
 border: 5px solid rgb(255, 255, 255);
 box-shadow: 5px 5px rgb(183, 207, 255);
